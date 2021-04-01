@@ -7,31 +7,31 @@ public class Trigger_BtnRight : MonoBehaviour, IPointerDownHandler, IPointerUpHa
 
     public Animator animator;
 
+    private string currentState;
 
+    // Animation State
+    const string player_WalkRight = "Prototype_WalkRight";
+    const string player_Idle = "Prototype_Idle";
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    
-    
     public void OnPointerDown(PointerEventData eventData)
     {
-        Debug.Log("T_Right");
-        animator.SetBool("Bool_WalkRight", true);
+        Debug.Log("T_Right_New");
+        ChangeAnimationState(player_WalkRight);
     }
 
     public void OnPointerUp(PointerEventData eventData)
     {
-        Debug.Log("F_Right");
-        animator.SetBool("Bool_WalkRight", false);
+        Debug.Log("F_Right_New");
+        ChangeAnimationState(player_Idle);
+    }
+
+    void ChangeAnimationState(string newState)
+    {
+        if (currentState == newState) return;
+
+        animator.Play(newState);
+
+        currentState = newState;
     }
 
 }

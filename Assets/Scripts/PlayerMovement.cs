@@ -48,6 +48,12 @@ public class PlayerMovement : MonoBehaviour
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
         movementDirection = new Vector3(moveX, moveY, 0);
+
+        // For PC Movement
+        animator.SetFloat("Horizontal", moveX);
+        animator.SetFloat("Vertical", moveY);
+        animator.SetFloat("Speed", movementDirection.sqrMagnitude);
+        
         //Compared .GetAxis, yung .GetAxisRaw para medyo maging responsive ang galaw ng player
         //Tapos nilagay naman yung function ng move sa FixedUpdate()
     }
