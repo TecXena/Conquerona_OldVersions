@@ -20,13 +20,13 @@ public class TouchJoystickRotation : MonoBehaviour
 
 		if (FacingRight)
 		{
-			//Rotates the object if the player is facing right
+			//Rotates the object if the joystick is facing right
 			GameobjectRotation2 = GameobjectRotation.x + GameobjectRotation.y * 90;
 			Object.transform.rotation = Quaternion.Euler(0f, 0f, GameobjectRotation2);
 		}
 		else
 		{
-			//Rotates the object if the player is facing left
+			//Rotates the object if the joystick is facing left
 			GameobjectRotation2 = GameobjectRotation.x + GameobjectRotation.y * -90;
 			Object.transform.rotation = Quaternion.Euler(0f, 180f, -GameobjectRotation2);
 		}

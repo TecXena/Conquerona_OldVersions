@@ -6,20 +6,48 @@ public class Enemy_MainFunctions : MonoBehaviour
 {
     public int health;
     public float speed;
+    public float enemyDamage;
+    public float stoppingDistance;
+    private Transform target; 
+    public Animator enemy_Adult1Animator;
 
+    private string currentState;
+
+
+    // Animation States
+    const string enemyIdle = "Adult1_Idle";
+    const string enemyWalk = "Adult1_Walk";
+
+
+    void Start()
+    {
+        target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+
+    }
 
 
     // Update is called once per frame
     void Update()
     {  
+
         // If the health is 0, destroy the game object (enemy)
         if (health <= 0)
         {
             Destroy(gameObject);
         }
+
+
         // Moves Enemy (basic for now)
-        transform.Translate(Vector2.right * speed * Time.deltaTime);
+        if (Vector2.Distance(transform.position, target.position) > stoppingDistance)
+        {
+            ChangeAnimationState(enemyWalk);
+            transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+        }
+
+
+
     }
+
 
     //Enemy Takes Damage Method
     public void TakeDamage(int damage)
@@ -32,5 +60,20 @@ public class Enemy_MainFunctions : MonoBehaviour
         GetComponent<MaterialTint_Damaged>().SetTintColor(color);
         Debug.Log("Damage Taken " + health);
     }
+
+
+
+
+    public void ChangeAnimationState(string newState)
+    {
+        if (currentState == newState) return;
+
+        enemy_Adult1Animator.Play(newState);
+
+        currentState = newState;
+    }
+
+
+
 
 }

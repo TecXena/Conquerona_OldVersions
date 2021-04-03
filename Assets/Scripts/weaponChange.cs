@@ -26,7 +26,7 @@ public class weaponChange : MonoBehaviour
 
         // Initializes the selected weapon 
         // (for now wala, sa future vers kung kaya kung pumasok yun player sa ibang scene same parin yun weapon nahawak nila)
-        selectWeaponCase = 2;
+        selectWeaponCase = 1;
         SelectWeapon();
     }
 
@@ -34,19 +34,19 @@ public class weaponChange : MonoBehaviour
     private void SelectWeapon()
     {
         switch(selectWeaponCase){
-            case 1:
-                fireArmWeapon.SetActive(false);
-                buttonPinkBullet.SetActive(false);
-                buttonBlueBullet.SetActive(false);
-                buttonRedBullet.SetActive(false);
-                meleeWeapon.SetActive(true);
-                break;
-            case 2:
+                case 1:
                 fireArmWeapon.SetActive(true);
                 buttonPinkBullet.SetActive(true);
                 buttonBlueBullet.SetActive(true);
                 buttonRedBullet.SetActive(true);
                 meleeWeapon.SetActive(false);
+                break;
+            case 2:
+                fireArmWeapon.SetActive(false);
+                buttonPinkBullet.SetActive(false);
+                buttonBlueBullet.SetActive(false);
+                buttonRedBullet.SetActive(false);
+                meleeWeapon.SetActive(true);
                 break;
             default:
                 fireArmWeapon.SetActive(false);
