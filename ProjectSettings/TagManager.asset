@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Background Image
+>>>>>>> origin/Conquerona_beta
   layers:
   - Default
   - TransparentFX
@@ -13,10 +18,17 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< HEAD
   - 
   - 
   - Player
   - Enemy
+=======
+  - Backround Image
+  - 
+  - 
+  - 
+>>>>>>> origin/Conquerona_beta
   - 
   - 
   - 
@@ -41,3 +53,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
+=======
+  - name: Background Image
+    uniqueID: 1056129759
+    locked: 0
+>>>>>>> origin/Conquerona_beta

@@ -1,22 +1,38 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< HEAD
     m_FilePath: C:/Xena Files/1STI 2st Sem Files/1_MobileAppAndroid/iLS/Versions/Conquerona-master
       - Main/Packages/manifest.json
+=======
+    m_FilePath: C:/Users/angel/Desktop/Conquerona/Conquerona beta v2/Packages/manifest.json
+>>>>>>> origin/Conquerona_beta
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637523352299543571
     m_Hash: 1258982397
   m_LockFileStatus:
     m_FilePath: C:/Xena Files/1STI 2st Sem Files/1_MobileAppAndroid/iLS/Versions/Conquerona-master
       - Main/Packages/packages-lock.json
+=======
+      ticks: 637529340043566055
+    m_Hash: 691509036
+  m_LockFileStatus:
+    m_FilePath: C:/Users/angel/Desktop/Conquerona/Conquerona beta v2/Packages/packages-lock.json
+>>>>>>> origin/Conquerona_beta
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637523352322157082
     m_Hash: 906835124
+=======
+      ticks: 637529342005651849
+    m_Hash: 959759037
+>>>>>>> origin/Conquerona_beta
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -27,8 +43,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.2.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.2d.animation@4.2.6
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.2d.animation@4.2.6
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -44,6 +64,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.15-preview.1
         - 1.0.15-preview.2
         - 1.0.15-preview.3
@@ -101,6 +122,12 @@ m_PackageAssets:
         - 4.2.6
         - 4.2.8
         verified: 4.2.8
+=======
+        - 4.2.6
+        compatible:
+        - 4.2.6
+        verified: 4.2.6
+>>>>>>> origin/Conquerona_beta
       dependencies:
       - name: com.unity.2d.common
         version: 3.0.1
@@ -146,7 +173,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637366431100000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -159,8 +190,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.2
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -169,7 +204,11 @@ m_PackageAssets:
         email: 
         url: 
       category: 
+<<<<<<< HEAD
       type: 
+=======
+      type: tool
+>>>>>>> origin/Conquerona_beta
       description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera
         component which ensures your pixel art remains crisp and clear at different
         resolutions, and stable in motion.
@@ -185,6 +224,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.0-preview
         - 1.0.1-preview
         - 2.0.2
@@ -198,6 +238,9 @@ m_PackageAssets:
         - 4.0.1
         - 5.0.0-pre.1
         - 5.0.0-pre.2
+=======
+        - 3.0.2
+>>>>>>> origin/Conquerona_beta
         compatible:
         - 3.0.2
         verified: 3.0.2
@@ -220,7 +263,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637225599840000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -233,8 +280,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -252,6 +303,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.0-preview.1
         - 1.0.0-preview.2
         - 1.0.0-preview.3
@@ -287,6 +339,12 @@ m_PackageAssets:
         - 3.1.6
         - 3.1.7
         verified: 3.1.7
+=======
+        - 3.1.6
+        compatible:
+        - 3.1.6
+        verified: 3.1.6
+>>>>>>> origin/Conquerona_beta
       dependencies:
       - name: com.unity.2d.common
         version: 3.0.1
@@ -331,7 +389,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637366434350000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -344,7 +406,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -395,8 +461,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.4
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -414,6 +484,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.10-preview.2
         - 1.0.11-preview
         - 1.0.12-preview
@@ -464,6 +535,12 @@ m_PackageAssets:
         - 4.1.4
         - 4.1.5
         verified: 4.1.5
+=======
+        - 4.1.4
+        compatible:
+        - 4.1.4
+        verified: 4.1.4
+>>>>>>> origin/Conquerona_beta
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
@@ -513,7 +590,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637366433170000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -526,7 +607,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.tilemap
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.tilemap
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
       displayName: 2D Tilemap Editor
@@ -571,13 +656,143 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+<<<<<<< HEAD
+=======
+    - packageId: com.unity.cinemachine@2.6.4
+      testable: 0
+      isDirectDependency: 1
+      version: 2.6.4
+      source: 1
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.cinemachine@2.6.4
+      assetPath: Packages/com.unity.cinemachine
+      name: com.unity.cinemachine
+      displayName: Cinemachine
+      author:
+        name: 
+        email: 
+        url: 
+      category: cinematography
+      type: 
+      description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete
+        the Cinemachine asset from your project BEFORE installing this version from
+        the Package Manager."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.11-beta.1
+        - 2.1.12
+        - 2.1.13
+        - 2.2.0
+        - 2.2.7
+        - 2.2.8
+        - 2.2.9
+        - 2.2.10-preview.3
+        - 2.2.10-preview.4
+        - 2.3.1
+        - 2.3.3
+        - 2.3.4
+        - 2.3.5-preview.3
+        - 2.4.0-preview.3
+        - 2.4.0-preview.4
+        - 2.4.0-preview.6
+        - 2.4.0-preview.7
+        - 2.4.0-preview.8
+        - 2.4.0-preview.9
+        - 2.4.0-preview.10
+        - 2.4.0
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        compatible:
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        verified: 2.6.4
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - camera
+      - follow
+      - rig
+      - fps
+      - cinematography
+      - aim
+      - orbit
+      - cutscene
+      - cinematic
+      - collision
+      - freelook
+      - cinemachine
+      - compose
+      - composition
+      - dolly
+      - track
+      - clearshot
+      - noise
+      - framing
+      - handheld
+      - lens
+      - impulse
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637523747250000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.cinemachine.git
+        revision: e272fa7acbab235a840c4e766b8e6099fa5cd76c
+        path: 
+>>>>>>> origin/Conquerona_beta
     - packageId: com.unity.collab-proxy@1.3.9
       testable: 0
       isDirectDependency: 1
       version: 1.3.9
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.collab-proxy@1.3.9
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.collab-proxy@1.3.9
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -594,6 +809,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.2.3-preview
         - 1.2.4-preview
         - 1.2.6
@@ -633,6 +849,11 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
+=======
+        - 1.3.9
+        compatible:
+        - 1.3.9
+>>>>>>> origin/Conquerona_beta
         verified: 1.3.9
       dependencies: []
       resolvedDependencies: []
@@ -659,7 +880,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637314349270000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -672,8 +897,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.ide.rider@1.2.1
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.ide.rider@1.2.1
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -690,6 +919,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.2
         - 1.0.6
         - 1.0.8
@@ -737,6 +967,11 @@ m_PackageAssets:
         - 3.0.3
         - 3.0.4
         - 3.0.5
+=======
+        - 1.2.1
+        compatible:
+        - 1.2.1
+>>>>>>> origin/Conquerona_beta
         verified: 1.2.1
       dependencies:
       - name: com.unity.test-framework
@@ -763,21 +998,33 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637123753810000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git@github.cds.internal.unity3d.com:unity/com.unity.ide.rider.git
+<<<<<<< HEAD
         revision: 009bcadf1eb16d9bbf3d00bcf6ccdde2162ce0cb
+=======
+        revision: 038f7161a30add43d98b31fd686ade12ffb96adb
+>>>>>>> origin/Conquerona_beta
         path: 
     - packageId: com.unity.ide.visualstudio@2.0.5
       testable: 0
       isDirectDependency: 1
       version: 2.0.5
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -794,6 +1041,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.2
         - 1.0.3
         - 1.0.4
@@ -820,6 +1068,12 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.7
         verified: 2.0.7
+=======
+        - 2.0.5
+        compatible:
+        - 2.0.5
+        verified: 2.0.5
+>>>>>>> origin/Conquerona_beta
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -835,7 +1089,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637400980850000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -848,8 +1106,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.ide.vscode@1.2.3
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.ide.vscode@1.2.3
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -866,6 +1128,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.2
         - 1.0.3
         - 1.0.7
@@ -888,6 +1151,10 @@ m_PackageAssets:
         - 1.2.0
         - 1.2.1
         - 1.2.2
+=======
+        - 1.2.3
+        compatible:
+>>>>>>> origin/Conquerona_beta
         - 1.2.3
         verified: 1.2.3
       dependencies: []
@@ -905,12 +1172,17 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637394922300000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
+<<<<<<< HEAD
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
     - packageId: com.unity.render-pipelines.universal@8.3.1
@@ -1021,14 +1293,21 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/Unity-Technologies/Graphics.git
         revision: 680e3b6121fc7d4cb8b99c2b59c74233ace4c49b
+=======
+        revision: 547f63839bdc87e0aed2c9e0d84f8f6336a83ea3
+>>>>>>> origin/Conquerona_beta
         path: 
     - packageId: com.unity.test-framework@1.1.19
       testable: 0
       isDirectDependency: 1
       version: 1.1.19
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.test-framework@1.1.19
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.test-framework@1.1.19
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1043,6 +1322,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 0.0.4-preview
         - 0.0.29-preview
         - 1.0.0
@@ -1077,6 +1357,12 @@ m_PackageAssets:
         - 1.1.22
         - 1.1.24
         verified: 1.1.24
+=======
+        - 1.1.19
+        compatible:
+        - 1.1.19
+        verified: 1.1.19
+>>>>>>> origin/Conquerona_beta
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.5
@@ -1106,12 +1392,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637413148910000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
+<<<<<<< HEAD
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
+=======
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+>>>>>>> origin/Conquerona_beta
         revision: 83583c7273ee961612200215e8989039bbce8748
         path: 
     - packageId: com.unity.textmeshpro@3.0.1
@@ -1119,8 +1413,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.textmeshpro@3.0.1
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.textmeshpro@3.0.1
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1155,6 +1453,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 0.1.2
         - 1.0.21
         - 1.0.23
@@ -1230,6 +1529,12 @@ m_PackageAssets:
         - 3.0.3
         - 3.0.4
         verified: 3.0.4
+=======
+        - 3.0.1
+        compatible:
+        - 3.0.1
+        verified: 3.0.1
+>>>>>>> origin/Conquerona_beta
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -1258,7 +1563,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637314376320000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -1271,8 +1580,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.timeline@1.3.6
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.timeline@1.3.6
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1288,6 +1601,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.2.0
         - 1.2.1
         - 1.2.2
@@ -1400,6 +1714,14 @@ m_PackageAssets:
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         verified: 1.3.7
+=======
+        - 1.2.6
+        - 1.3.6
+        compatible:
+        - 1.2.6
+        - 1.3.6
+        verified: 1.3.6
+>>>>>>> origin/Conquerona_beta
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -1420,7 +1742,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637359675340000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -1433,7 +1759,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1496,7 +1826,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1544,7 +1878,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1592,7 +1930,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1640,7 +1982,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1688,7 +2034,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1736,7 +2086,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1788,7 +2142,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1844,7 +2202,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1893,7 +2255,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1941,7 +2307,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1989,7 +2359,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -2037,7 +2411,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -2085,7 +2463,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2133,7 +2515,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2185,7 +2571,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2233,7 +2623,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2289,7 +2683,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2341,7 +2739,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2389,7 +2791,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2453,7 +2859,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2501,7 +2911,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2557,7 +2971,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2605,7 +3023,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2661,7 +3083,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2717,7 +3143,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2773,7 +3203,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2845,7 +3279,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2897,7 +3335,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2957,7 +3399,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -3019,7 +3465,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -3067,7 +3517,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -3127,7 +3581,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3179,7 +3637,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
+=======
+      resolvedPath: E:\Unity Project\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3238,8 +3700,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.5
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.ext.nunit@1.0.5
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.ext.nunit@1.0.5
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3255,6 +3721,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 0.1.5-preview
         - 0.1.6-preview
         - 0.1.9-preview
@@ -3269,6 +3736,12 @@ m_PackageAssets:
         - 1.0.5
         - 1.0.6
         verified: 1.0.6
+=======
+        - 1.0.5
+        compatible:
+        - 1.0.5
+        verified: 1.0.5
+>>>>>>> origin/Conquerona_beta
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3287,7 +3760,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637413148740000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3295,6 +3772,7 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 1b3e542964a65210e966f5bf8751f62b1dcd8d69
         path: 
+<<<<<<< HEAD
     - packageId: com.unity.render-pipelines.core@8.3.1
       testable: 0
       isDirectDependency: 0
@@ -3562,13 +4040,19 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/Graphics.git
         revision: 680e3b6121fc7d4cb8b99c2b59c74233ace4c49b
         path: 
+=======
+>>>>>>> origin/Conquerona_beta
     - packageId: com.unity.mathematics@1.1.0
       testable: 0
       isDirectDependency: 0
       version: 1.1.0
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.mathematics@1.1.0
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.mathematics@1.1.0
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3584,6 +4068,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 0.0.12-preview.2
         - 0.0.12-preview.5
         - 0.0.12-preview.8
@@ -3611,6 +4096,11 @@ m_PackageAssets:
         - 1.0.0-preview.1
         - 1.0.1
         - 1.1.0-preview.1
+=======
+        - 1.1.0
+        - 1.2.1
+        compatible:
+>>>>>>> origin/Conquerona_beta
         - 1.1.0
         - 1.2.1
         verified: 1.2.1
@@ -3630,7 +4120,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 636984649280000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3643,8 +4137,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.2d.common@3.0.1
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.2d.common@3.0.1
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3660,6 +4158,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.9-preview.1
         - 1.0.9-preview.2
         - 1.0.10-preview
@@ -3678,6 +4177,9 @@ m_PackageAssets:
         - 4.0.3
         - 5.0.0-pre.1
         - 5.0.0-pre.2
+=======
+        - 3.0.1
+>>>>>>> origin/Conquerona_beta
         compatible:
         - 3.0.1
         verified: 3.0.1
@@ -3713,7 +4215,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637256005260000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3726,8 +4232,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.2
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Xena Files\1STI 2st Sem Files\1_MobileAppAndroid\iLS\Versions\Conquerona-master
         - Main\Library\PackageCache\com.unity.2d.path@3.0.2
+=======
+      resolvedPath: C:\Users\angel\Desktop\Conquerona\Conquerona beta v2\Library\PackageCache\com.unity.2d.path@3.0.2
+>>>>>>> origin/Conquerona_beta
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3743,6 +4253,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 1.0.0-preview.1
         - 1.0.0-preview.4
         - 2.0.1
@@ -3759,6 +4270,9 @@ m_PackageAssets:
         - 4.0.1
         - 5.0.0-pre.1
         - 5.0.0-pre.2
+=======
+        - 3.0.2
+>>>>>>> origin/Conquerona_beta
         compatible:
         - 3.0.2
         verified: 3.0.2
@@ -3779,7 +4293,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637328482940000000
+=======
+      datePublishedTicks: 0
+>>>>>>> origin/Conquerona_beta
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3787,6 +4305,7 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/2d.git
         revision: 770e07a3b7a9107798c367cae274d1d3418c4ede
         path: 
+<<<<<<< HEAD
     - packageId: com.unity.searcher@4.0.9
       testable: 0
       isDirectDependency: 0
@@ -3842,4 +4361,9 @@ m_PackageAssets:
     m_LocalFileStatus: []
 m_ProjectPath: C:/Xena Files/1STI 2st Sem Files/1_MobileAppAndroid/iLS/Versions/Conquerona-master
   - Main/Packages
+=======
+  m_LocalPackages:
+    m_LocalFileStatus: []
+m_ProjectPath: C:/Users/angel/Desktop/Conquerona/Conquerona beta v2/Packages
+>>>>>>> origin/Conquerona_beta
 m_EditorVersion: 2020.1.17f1 (9957aee8edc2)

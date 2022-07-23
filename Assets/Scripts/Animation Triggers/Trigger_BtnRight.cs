@@ -7,6 +7,7 @@ public class Trigger_BtnRight : MonoBehaviour, IPointerDownHandler, IPointerUpHa
 
     public Animator animator;
 
+<<<<<<< HEAD
     private string currentState;
 
     // Animation State
@@ -32,6 +33,33 @@ public class Trigger_BtnRight : MonoBehaviour, IPointerDownHandler, IPointerUpHa
         animator.Play(newState);
 
         currentState = newState;
+=======
+
+
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    
+    
+    public void OnPointerDown(PointerEventData eventData)
+    {
+        Debug.Log("T_Right");
+        animator.SetBool("Bool_WalkRight", true);
+    }
+
+    public void OnPointerUp(PointerEventData eventData)
+    {
+        Debug.Log("F_Right");
+        animator.SetBool("Bool_WalkRight", false);
+>>>>>>> origin/Conquerona_beta
     }
 
 }
