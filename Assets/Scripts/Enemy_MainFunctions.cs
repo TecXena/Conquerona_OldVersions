@@ -37,12 +37,12 @@ public class Enemy_MainFunctions : MonoBehaviour
         }
 
 
-        // Moves Enemy (basic for now)
+        /* Moves Enemy (basic for now)
         if (Vector2.Distance(transform.position, target.position) > stoppingDistance)
         {
             ChangeAnimationState(enemyWalk);
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
-        }
+        }*/
 
 
 

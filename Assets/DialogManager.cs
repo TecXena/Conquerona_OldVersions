@@ -35,7 +35,7 @@ public class DialogManager : MonoBehaviour
     public void StopDialog()
     {
         Controller.SetActive(true);
-        BattleButtons.SetActive(true);
+        BattleButtons.SetActive(false);
         dialogPanel.SetActive(false);
     }
 
@@ -54,7 +54,7 @@ public class DialogManager : MonoBehaviour
         else 
         {
             Controller.SetActive(true);
-            BattleButtons.SetActive(true);
+            BattleButtons.SetActive(false);
             dialogPanel.SetActive(false);
         }
     }
